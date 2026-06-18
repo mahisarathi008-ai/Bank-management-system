@@ -1,0 +1,1 @@
+function showInfo(){document.getElementById('info').innerHTML='Run any C file to access the banking system.';}
